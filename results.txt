@@ -1,0 +1,5 @@
+Query	Total Executions	Total Duration (ms)	Average Duration (ms)
+SELECT * FROM users	100	500	5
+INSERT INTO orders ...	50	1000	20
+UPDATE products SET ...	200	1500	7.5
+DELETE FROM customers	50	800	16
